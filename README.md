@@ -47,7 +47,7 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/Piyush-Sahare/ShoppyGlobe.git
 
-   cd Online-Library-System
+   cd ShoppyGlobe
 
    npm install
    
